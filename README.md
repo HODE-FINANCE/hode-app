@@ -1,2 +1,2 @@
 # hode-app
-HEDE Mobile app
+HODE Mobile app
